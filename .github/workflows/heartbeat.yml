@@ -13,21 +13,26 @@ jobs:
       - name: Ping Supabase Database
         run: |
           echo "🔄 Pinging Supabase to keep it alive..."
+          echo "URL: ${{ secrets.SUPABASE_URL }}"
           
+          # Make the request and capture response
           response=$(curl -s -w "\n%{http_code}" -X GET \
             "${{ secrets.SUPABASE_URL }}/rest/v1/stories?select=id&limit=1" \
             -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}" \
-            -H "Authorization: Bearer ${{ secrets.SUPABASE_ANON_KEY }}")
+            -H "Authorization: Bearer ${{ secrets.SUPABASE_ANON_KEY }}" 2>&1)
           
+          # Extract status code and body
           http_code=$(echo "$response" | tail -n1)
-          body=$(echo "$response" | head -n-1)
+          body=$(echo "$response" | sed '$d')
           
-          if [ "$http_code" -eq 200 ]; then
+          echo "Status Code: $http_code"
+          echo "Response Body: $body"
+          
+          # Check if successful
+          if [ "$http_code" = "200" ]; then
             echo "✅ Supabase heartbeat successful!"
-            echo "Response: $body"
           else
             echo "❌ Heartbeat failed with status: $http_code"
-            echo "Response: $body"
             exit 1
           fi
       
