@@ -10,38 +10,34 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Check Secrets
-        run: |
-          echo "🔍 Checking secrets are set..."
-          if [ -z "${{ secrets.SUPABASE_URL }}" ]; then
-            echo "❌ SUPABASE_URL is not set!"
-            exit 1
-          fi
-          if [ -z "${{ secrets.SUPABASE_ANON_KEY }}" ]; then
-            echo "❌ SUPABASE_ANON_KEY is not set!"
-            exit 1
-          fi
-          echo "✅ Secrets are configured"
-          echo "URL: ${{ secrets.SUPABASE_URL }}"
-      
       - name: Ping Supabase Database
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
         run: |
           echo "🔄 Pinging Supabase to keep it alive..."
           
-          # Make the request with verbose output
-          curl -v -X GET \
-            "${{ secrets.SUPABASE_URL }}/rest/v1/stories?select=id&limit=1" \
-            -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}" \
-            -H "Authorization: Bearer ${{ secrets.SUPABASE_ANON_KEY }}" \
-            -o response.json
+          # Clean the URL (remove any whitespace/newlines)
+          CLEAN_URL=$(echo "$SUPABASE_URL" | tr -d '[:space:]')
           
-          exit_code=$?
+          echo "Testing URL: ${CLEAN_URL}/rest/v1/stories"
           
-          if [ $exit_code -eq 0 ]; then
+          # Make the request
+          HTTP_CODE=$(curl -s -o response.json -w "%{http_code}" \
+            "${CLEAN_URL}/rest/v1/stories?select=id&limit=1" \
+            -H "apikey: ${SUPABASE_KEY}" \
+            -H "Authorization: Bearer ${SUPABASE_KEY}")
+          
+          echo "HTTP Status: $HTTP_CODE"
+          
+          if [ "$HTTP_CODE" = "200" ]; then
             echo "✅ Supabase heartbeat successful!"
+            echo "Response:"
             cat response.json
           else
-            echo "❌ curl failed with exit code: $exit_code"
+            echo "❌ Heartbeat failed with status: $HTTP_CODE"
+            echo "Response:"
+            cat response.json
             exit 1
           fi
       
