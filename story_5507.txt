@@ -1,0 +1,679 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./Narisa_2_Prolohue_files/filelist.xml">
+<title>Narisa 2 Prolohue</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Gregory Gibson</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Gregory Gibson</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>14</o:TotalTime>
+  <o:Created>2008-04-27T18:30:00Z</o:Created>
+  <o:LastSaved>2008-04-29T15:33:00Z</o:LastSaved>
+  <o:Pages>4</o:Pages>
+  <o:Words>2889</o:Words>
+  <o:Characters>13004</o:Characters>
+  <o:Company>Southern Management Corp</o:Company>
+  <o:Lines>342</o:Lines>
+  <o:Paragraphs>79</o:Paragraphs>
+  <o:CharactersWithSpaces>20228</o:CharactersWithSpaces>
+  <o:Version>9.6926</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+body
+	{scrollbar-base-color: #C9D1C6;}
+A:hover {
+text-decoration: underline;
+color: #CC3300;
+}
+ /* Font Definitions */
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:windowtext;}
+h1
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:15.0pt;
+	font-family:Arial;
+	color:#4A735A;
+	mso-font-kerning:18.0pt;
+	font-weight:bold;}
+h2
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:13.0pt;
+	font-family:Arial;
+	color:#4A735A;
+	font-weight:bold;}
+h3
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:11.0pt;
+	font-family:Arial;
+	color:black;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:#696A97;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#696A67;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	color:black;}
+p.tleft, li.tleft, div.tleft
+	{mso-style-name:tleft;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:4.5pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.tright, li.tright, div.tright
+	{mso-style-name:tright;
+	margin-right:4.5pt;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:right;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.tmain, li.tmain, div.tmain
+	{mso-style-name:tmain;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:#EFF2EB;
+	border:none;
+	mso-border-alt:solid #4A735A .75pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.tdark, li.tdark, div.tdark
+	{mso-style-name:tdark;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:#E8EBE4;
+	border:none;
+	mso-border-alt:solid #4A735A .75pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor="#d0d8cd" lang=EN-US link="#696a97" vlink="#696a67"
+style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="90%" bgcolor="#eff2eb"
+ style='width:90.0%;background:#EFF2EB;border-collapse:collapse;border:none;
+ mso-border-alt:solid #4A735A .75pt;mso-padding-alt:3.0pt 3.0pt 3.0pt 3.0pt'>
+ <tr>
+  <td style='border:solid #4A735A .75pt;background:#E8EBE4;padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+  <h1>N<a name=top></a>arisa 2 Prologue</h1>
+  </td>
+ </tr>
+ <tr>
+  <td style='border:solid #4A735A .75pt;border-top:none;mso-border-top-alt:
+  solid #4A735A .75pt;padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+  <table border=1 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+   mso-cellspacing:0in;border:none;mso-padding-alt:0in 0in 0in 0in'>
+   <tr>
+    <td width=20 style='width:15.0pt;border:none;padding:0in 0in 0in 0in'>
+    <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><span
+    style='color:black'><o:p></o:p></span></p>
+    </td>
+    <td style='border:none;background:#99FFCC;padding:0in 0in 0in 0in'>
+    <p class=MsoNormal><span style='font-size:13.0pt;mso-bidi-font-size:12.0pt;
+    font-family:Georgia;color:black'>&nbsp;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Narisa 2 <br>
+    By: C. Stanton Leman<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    <p class=MsoNormal><span style='font-size:13.0pt;mso-bidi-font-size:12.0pt;
+    font-family:Georgia;color:black'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+    <p align=center style='text-align:center'><span style='font-size:13.0pt;
+    mso-bidi-font-size:10.0pt;font-family:Georgia;color:red'>Prologue<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>On Wednesday, August 29th, 2000, there were tearful and sad
+    goodbyes as <br>
+    the Williams family waited to board the aircraft that would take them from <br>
+    Tehran back home to the U.S. and begin a new life. Narisa's heartfelt and <br>
+    sad farewell to her family, a family she'd never see again was especially <br>
+    painful to witness. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>It was especially painful for all in the Williams family to watch
+    as Narisa <br>
+    sobbed in her mother's arms crying, &quot;Oh, Momma, I love you so much and
+    <br>
+    my heart is breaking! What am I going to do? How will I ever make it <br>
+    without you! You are my dearest and closest friend. Who can I turn to for <br>
+    guidance?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Hush now, my child. I will always be right there with you in
+    your heart <br>
+    and you in mine. We're Iranian women, remember? It's up to us to take <br>
+    care of our families. You have a husband that loves you - would lay down <br>
+    his life for you. Take strength in that. He will be your partner in life
+    Trust <br>
+    him with your heart, your feelings and even your fears. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;You have a mother-in-law that calls you daughter. Accept her
+    love and <br>
+    claim her as your own. Trust her like you trust me. Go to her and have the <br>
+    same talks like we've had. She will advise you as I would - I'm sure of it.
+    So <br>
+    you see? You're not alone and you can make your new life one of joy, of <br>
+    love and hope for the future. I have taught you to be a good wife. Now is
+    the <br>
+    time for you to leave and start your own family. I truly thank Allah for <br>
+    giving me you as my child and I know He will be your strength. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Go, Daughter, and make me proud. Never forget your heritage
+    or your <br>
+    faith. It's up to you to lead your husband, for you are the stronger one. <br>
+    Establish yourself as the dominant force in your home and put your family <br>
+    and your husband first. If you do that, he will trust and follow your <br>
+    direction. Always make sure your decisions are selfless with regard to your
+    <br>
+    family and do what your heart knows is right. Don't be misled by their <br>
+    society. Keep the traditions - honor, chastity and family and most of all, <br>
+    what's right in the sight of God. Protect those traditions with your
+    life&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;I will, Momma. Just wait and see. I will grow up just like
+    you for you are <br>
+    my role model and idol. I love you, Momma and it feels like my heart is <br>
+    broken into pieces. Goodbye, Momma. I'll miss you.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Goodbye, Narisa. I will pray for you every day knowing that
+    you will make <br>
+    Allah and me proud. Know this my child: I will miss and think of you until <br>
+    my last breath. Now go, go make your farewells to your father and <br>
+    brother.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Mother and child tightly embraced and kissed each other for the
+    last time. <br>
+    Narisa made her way into her father's arms and continued to sob.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;There, there, Princess, don't cry. You're a woman now and
+    must leave my <br>
+    house and begin a new life with your husband. Josh is a good man and you <br>
+    have a good family to support you. When I imagine all the beauty and <br>
+    wonder of this world, I only see your mother, Rafi and you. I'll miss you, <br>
+    pray for you and remember your beautiful eyes. I make this vow to you, <br>
+    Daughter: I will live long enough to look into the eyes of your children
+    and <br>
+    I know I'll see your eyes again.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Oh Daddy! You have been my hero and I measure all men in the
+    world <br>
+    against you. I will miss our games together and your reassuring hugs. I'm <br>
+    so sorry for disappointing you and getting into trouble. I know that I've <br>
+    embarrassed you and brought you shame. Can you ever forgive me?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Hush now, child. You did no such thing! You could not and
+    have never <br>
+    brought me shame. You did nothing wrong. You're a young girl and acted <br>
+    like one. You have a husband that saved your life and for that, I praise <br>
+    Allah. Look to him for <i>he</i> will now be your protector. Sometimes,
+    Princess, <br>
+    we know not why things happen. All we can do is trust in God for He knows <br>
+    our hearts.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;I believe that Allah brought these events upon us to bring
+    you and Josh <br>
+    together. He's a good man and has been an honorable husband to you. Be <br>
+    his strength and driving force in life and your family will prosper. If I
+    know <br>
+    you - and your mother - he will become as trained as I (sniffled giggles). <br>
+    You're a strong girl and my faith in you is unwavering. Your mother has <br>
+    taught you well and now it's time for you to take those lessons and make <br>
+    your own way in the world. There will be times when you are lonely, tired, <br>
+    frustrated and unsure of yourself, but if you draw strength on your
+    heritage <br>
+    and faith, Allah will see you through it all. Trust in your husband and
+    your <br>
+    new family, your heritage and the lessons we've tried to impart to you and <br>
+    look to Allah for strength and direction and you will prevail. Now kiss
+    your <br>
+    Papa goodbye because it's not good for people to see a police chief cry <br>
+    (more sniffled giggles).&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Rafi, my sweet brother, I love you and will miss you
+    terribly.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Rafi broke down sobbing as he spoke to his sister, &quot;Oh
+    Narisa, I'm so sorry! <br>
+    All of this is my fault. If I had gotten there sooner none of this would
+    have <br>
+    happened. I feel so ashamed!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Sweet brother, don't feel bad. All of this is Allah's doing
+    and is His <br>
+    purpose for my life. Don't feel sad because we all have our lives to live <br>
+    according to His will. Let's be happy for the years we've shared and be <br>
+    grateful for God's gifts. One of the most precious of those is my beloved <br>
+    brother. Find a good girl like Momma and have lots of happy babies. One <br>
+    day our children will be together and play, just like you and I have and
+    they <br>
+    will know the love of God. Kiss me, Rafi, and be happy for me. I've never <br>
+    once blamed you for what's happened and I never will. Be at peace with <br>
+    God and yourself. I love you and will miss you terribly. Now kiss me <br>
+    goodbye.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Brother and sister kissed each other cheeks and Narisa took her
+    brother's <br>
+    face in her hands and placed a gentle kiss on his lips.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>While Narisa was saying goodbye to her family, Josh was doing the
+    same <br>
+    with his friends. He bade farewell to his in-laws behind Narisa. Even <br>
+    farewells have to end, but with every farewell there's a new adventure on <br>
+    the horizon. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>They boarded their flight at 5:55 and took off at 6:15. As the
+    plane banked <br>
+    and lifted up into the clear, blue summer skies over Tehran, Narisa looked <br>
+    back sobbing for a family and a homeland she'd never see again. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>It took Josh a good hour during the flight to get Narisa calmed
+    down. As <br>
+    soon as she seemed okay, she'd start the waterworks all over again. She <br>
+    told him through her new mom that the thought of never seeing her family <br>
+    again, especially her mother, seemed unbearable now that it was a reality <br>
+    and she'd actually left Tehran.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Josh just pulled up the armrest between them and held her. There
+    wasn't <br>
+    much else he could do. He thought to himself, <i>If I was leaving <b>my</b>
+    parents <br>
+    forever, I have no idea how I'd handle it - probably no better than Narisa <br>
+    is. <o:p></o:p></i></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>After she'd cried herself out, she slept the last two of the
+    five-hour flight. <br>
+    Josh woke her up when the seatbelt sign came on and were instructed to <br>
+    prepare for landing. She awoke red-eyed from crying and her face was a <br>
+    little puffy. When they landed in London, they learned that the State <br>
+    Department didn't waste any time: they were waiting for them.<br>
+    <br>
+    Stanley Wiseman, the Assistant Secretary of State that arranged for <br>
+    Narisa's asylum along with several security personnel, met them as they <br>
+    disembarked from the aircraft. They were escorted to a private conference <br>
+    room where he began to prepare them for their arrival at Dulles. Everyone <br>
+    was surprised to learn that they wouldn't be continuing their regular
+    flight, <br>
+    but instead would be flown to Washington on a government jet. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>He explained that the press was waiting for them in force,
+    expecting them <br>
+    to arrive on a commercial flight. He told the family that he would be <br>
+    making a government-approved statement and that he would answer most <br>
+    of the press' questions. Then Steven, Josh's dad and Marie, his mother, if <br>
+    she wished to, would speak and give their statements and take questions if <br>
+    they so desired. Mr. Wiseman advised that it would be best if Narisa and <br>
+    Josh didn't appear or speak to journalists because they were minors. U.S. <br>
+    law prevents the press from publishing any details regarding the teens such
+    <br>
+    as names, personal details or information other than their ages and some <br>
+    of the details of the incident in Tehran. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>The details of their arrest, trials and release were murky areas
+    in that Marie <br>
+    and Steven had to be careful of what they said because by asking carefully <br>
+    crafted probing questions, the press hoped that some of this information <br>
+    would be accidentally revealed. Any statement or information given by the <br>
+    guardians of minor children could be printed. The press was hungry for the <br>
+    juicy details: two young teens pulled from the brink of death only by <br>
+    marrying one another. It was a story that had them all salivating. All of <br>
+    them were starting to get apprehensive as they thought about the <br>
+    prospective events following their landing.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Having been prepared, the Williams family was escorted through a
+    private <br>
+    area and hustled into a shuttle bus and driven to a hangar where they <br>
+    boarded a small jet. Fifteen minutes later they were airborne on their last
+    <br>
+    leg home, compliments of Uncle Sam. The plane was a lot more <br>
+    comfortable than a commercial flight and they were served a hot meal once <br>
+    they were underway.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>None of them could really rest because they were so anxious about
+    what <br>
+    was to happen when they landed. The tension only served to make the <br>
+    flight seem longer than it really was. Josh thought to himself, <i>I was <br>
+    nervous about going over there and now, I'm more nervous about coming <br>
+    back!<o:p></o:p></i></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Josh cuddled his tiny wife to help ease her obvious fear of the
+    unknown. <br>
+    She was still morose over the loss of her family. While she slept on the <br>
+    plane, she'd utter &quot;Momma&quot; several times in her sleep. Add to
+    that, in Iran, <br>
+    she was a convicted prostitute; what would the world press do with<i> that</i>
+    <br>
+    information?<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>After what seemed like forever, they were circling Washington D.
+    C. <br>
+    waiting for clearance to land. Once on the ground and the plane had taxied <br>
+    to a hangar, they were again loaded onto a shuttle that drove them to the <br>
+    terminal. They were told their luggage would be taken care of and loaded in
+    <br>
+    the van that would drive them home. After some last-minute preparations, <br>
+    the family was seated in an anteroom next to the pressroom and was told <br>
+    they could watch the press conference on closed circuit TV. Then, if either
+    <br>
+    of the parents wished to make a statement, they would be called in. Steven <br>
+    Williams said he'd like to make a statement and Mr. Wiseman told him he <br>
+    would bring him in at the appropriate time.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Everyone attentively watched the screen and the lone podium with
+    the <br>
+    State Department seal on a blue-curtained backdrop and the murmurings <br>
+    of reporters waiting for someone to appear. After several minutes, Mr. <br>
+    Wiseman walked into the room and up to the rostrum and the room <br>
+    suddenly became quiet.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Good evening, ladies and gentleman, it's such a pleasant
+    surprise to see all <br>
+    of you here tonight instead of being at home with your families (chuckles <br>
+    from the press).<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;At this time, I'd like to take a moment and say that for our
+    citizens <br>
+    traveling abroad, we would hope that they visit the State Department's <br>
+    website and review any precautions that should be taken when traveling <br>
+    abroad and to remember that U.S. citizens are bound by the laws of the <br>
+    countries they visit. These countries may have far more serious penalties <br>
+    for certain offenses than exist in the Unites States. We are here tonight
+    to <br>
+    report the resolution of a situation involving the arrest, detention and
+    trial <br>
+    of a U.S. citizen by authorities of the Islamic Republic of Iran. Through <br>
+    delicate negotiations and diplomacy, a successful conclusion was <br>
+    achieved.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Josh thought<i>, Delicate negotiations and diplomacy my ass! What
+    were <br>
+    they doing while I sat in that prison? Where were they when they <br>
+    convicted and sentenced us to death? It's just like the government to take <br>
+    credit for something they didn't do.</i> He then continued to listen as Mr.
+    <br>
+    Wiseman went on.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Now to the topic at hand: On July twelfth the teenaged son
+    of American <br>
+    citizens - a minor I might add - intervened in an incident involving
+    Iranian <br>
+    police authorities and a young teenaged girl being charged for offenses <br>
+    under Islamic law. The boy felt a moral responsibility to act because he <br>
+    truly believed her life was in danger. As a result, he was arrested,
+    charged <br>
+    and tried for interfering with the internal affairs of the Islamic Republic
+    of <br>
+    Iran and accosting a female citizen of their country. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;At this time, we would like to acknowledge the Iranian
+    government in <br>
+    demonstrating moderation and restraint while exercising compassion in <br>
+    bringing this matter to a successful resolution. Are there any
+    questions?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Is it true he was charged with rape? How old is he&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;No, that's incorrect, he is fourteen. Next?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Besides being charged with interfering in the internal
+    affairs in a police <br>
+    matter, exactly what else was he charged with?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Defiling a Muslim girl. Next?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;What exactly did he do?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;He touched the girl. Next?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;How old is the girl?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;She's thirteen. You: over there in the blue.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;What was the girl being charged with and why did he
+    intervene?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;She was unaccompanied on the street without a male relative
+    and was <br>
+    charged with a crime against public chastity. She was reportedly being <br>
+    stoned at the time of intervention.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;There were reports that she was a prostitute. Is that
+    true?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;That is blatantly false. She's an innocent young girl much
+    like any other <br>
+    girl her age around the world.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Is it true they had to get married?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;The marital status of minors - single or married - and any
+    other personal <br>
+    information is not open for discussion.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;What of the girl? Is she here in the United States?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Yes, she has been granted asylum by the U.S.
+    government.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Why was she granted asylum? Is it because she's become a
+    member of the <br>
+    Williams family?'&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;The young lady was given asylum to protect her from any
+    further danger <br>
+    of imprisonment or possible harm.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Mr. Wiseman introduced Josh's father saying that Mr. Steven
+    Williams <br>
+    wanted to say a few words. Mr. Wiseman stood off to the left and behind <br>
+    Mr. Williams. The room became quiet again as Steve stepped up to the <br>
+    rostrum and began his statement.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;I would like to thank the State Department for all its help
+    in bringing our <br>
+    family home. I'd just like to say that my wife, Marie, and I have spent our
+    <br>
+    entire adult lives in the pursuit of our love for Persian history, its
+    people, <br>
+    customs and culture and this incident hasn't diminished that love - not one
+    <br>
+    whit - and we will continue that pursuit. We would also like to express our
+    <br>
+    heartfelt gratitude to the Iranian government for its clemency in this
+    case.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;I would like to remind all of you that the details you seek
+    the most involve <br>
+    the personal lives and futures of two young people. They have been through <br>
+    some very trying and traumatic events and need time to heal and get on <br>
+    with their lives. I am now asking that you, the press, give them their <br>
+    privacy and respect their rights to live their lives as normally as
+    possible. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Make no mistake: If my wife and I feel that the press is in
+    any way <br>
+    investigating, intervening or intruding on their privacy, we will fight
+    with <br>
+    every resource we have and every fiber in our beings to protect them. Your <br>
+    &quot;right to publish&quot; under the first amendment, for the sake of a
+    provocative <br>
+    story, is superceded by the rights of two minors to live their lives in
+    peace. <br>
+    Thank you very much.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>As Steven turned and left the podium, multiple questions were
+    being <br>
+    shouted from the gallery of reporters all at once. He remained silent and <br>
+    left, followed by Mr. Wiseman's announcement &quot;I'm afraid that's all
+    for <br>
+    now, thank you all for coming.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Again, now away from any crowds, the reporters and
+    curiosity-seekers, the <br>
+    family thanked Mr. Wiseman for all his help and support. They were then <br>
+    led through the private hallways of the terminal to an awaiting van to take
+    <br>
+    them home. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>As they sped through the darkness of night along I-495 to their
+    new home <br>
+    in Virginia, Josh pondered what tomorrow and the future held in store for <br>
+    his Persian Princess and him. Narisa meanwhile was thinking the very <br>
+    same thing as she sat enfolded in Josh's arms. They would embark on a <br>
+    new journey together and start of a new life. Together, as a young married <br>
+    couple, they would cling to each other as they ventured forth into the
+    future <br>
+    on a new beginning<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    <p class=MsoNormal><span style='font-size:13.0pt;mso-bidi-font-size:12.0pt;
+    font-family:Georgia;color:black'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Edited by Morgan<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    </td>
+    <td width=20 style='width:15.0pt;border:none;padding:0in 0in 0in 0in'>
+    <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><span
+    style='color:black'><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal><span style='color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td style='border:solid #4A735A .75pt;border-top:none;mso-border-top-alt:
+  solid #4A735A .75pt;background:#E8EBE4;padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+  <p class=tright>Default Template for <a href="http://www.easyhtools.com"
+  target="_blank">Easy Text To HTML Converter</a></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>

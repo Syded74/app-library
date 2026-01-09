@@ -1,0 +1,757 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./Narisa_2.1_files/filelist.xml">
+<title>Narisa 2.1A</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Gregory Gibson</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Gregory Gibson</o:LastAuthor>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>65</o:TotalTime>
+  <o:Created>2008-04-29T11:39:00Z</o:Created>
+  <o:LastSaved>2008-04-30T15:48:00Z</o:LastSaved>
+  <o:Pages>5</o:Pages>
+  <o:Words>3406</o:Words>
+  <o:Characters>15327</o:Characters>
+  <o:Company>Southern Management Corp</o:Company>
+  <o:Lines>403</o:Lines>
+  <o:Paragraphs>94</o:Paragraphs>
+  <o:CharactersWithSpaces>23842</o:CharactersWithSpaces>
+  <o:Version>9.6926</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+body
+	{scrollbar-base-color: #C9D1C6;}
+A:hover {
+text-decoration: underline;
+color: #CC3300;
+}
+ /* Font Definitions */
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:windowtext;}
+h1
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:15.0pt;
+	font-family:Arial;
+	color:#4A735A;
+	mso-font-kerning:18.0pt;
+	font-weight:bold;}
+h2
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:13.0pt;
+	font-family:Arial;
+	color:#4A735A;
+	font-weight:bold;}
+h3
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:11.0pt;
+	font-family:Arial;
+	color:black;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:#696A97;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#696A67;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	color:black;}
+p.tleft, li.tleft, div.tleft
+	{mso-style-name:tleft;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:4.5pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.tright, li.tright, div.tright
+	{mso-style-name:tright;
+	margin-right:4.5pt;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:right;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.tmain, li.tmain, div.tmain
+	{mso-style-name:tmain;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:#EFF2EB;
+	border:none;
+	mso-border-alt:solid #4A735A .75pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.tdark, li.tdark, div.tdark
+	{mso-style-name:tdark;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:#E8EBE4;
+	border:none;
+	mso-border-alt:solid #4A735A .75pt;
+	padding:0in;
+	mso-padding-alt:0in 0in 0in 0in;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor="#d0d8cd" lang=EN-US link="#696a97" vlink="#696a67"
+style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="90%" bgcolor="#eff2eb"
+ style='width:90.0%;background:#EFF2EB;border-collapse:collapse;border:none;
+ mso-border-alt:solid #4A735A .75pt;mso-padding-alt:3.0pt 3.0pt 3.0pt 3.0pt'>
+ <tr>
+  <td style='border:solid #4A735A .75pt;background:#E8EBE4;padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+  <h1>Narisa 2.1A<a name=top></a></h1>
+  </td>
+ </tr>
+ <tr>
+  <td style='border:solid #4A735A .75pt;border-top:none;mso-border-top-alt:
+  solid #4A735A .75pt;padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+  <table border=1 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+   mso-cellspacing:0in;border:none;mso-padding-alt:0in 0in 0in 0in'>
+   <tr>
+    <td width=20 style='width:15.0pt;border:none;padding:0in 0in 0in 0in'>
+    <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><span
+    style='color:black'><o:p></o:p></span></p>
+    </td>
+    <td style='border:none;background:#CCECFF;padding:0in 0in 0in 0in'>
+    <p class=MsoNormal><span style='font-size:13.0pt;mso-bidi-font-size:12.0pt;
+    font-family:Georgia;color:black'>&nbsp;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Narisa 2<br>
+    By: C. Stanton Leman<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    <p class=MsoNormal><span style='font-size:13.0pt;mso-bidi-font-size:12.0pt;
+    font-family:Georgia;color:black'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+    <p align=center style='text-align:center'><span style='font-size:13.0pt;
+    mso-bidi-font-size:10.0pt;font-family:Georgia;color:red'>Chapter 1<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    <p><b><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>August 30, 2000<o:p></o:p></span></b></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>The van dropped the Williams family off at their front door a
+    little after <br>
+    midnight. After they'd moved all their bags into the foyer the driver left.
+    <br>
+    Narisa slowly walked into the main foyer with her head twisting every <br>
+    which way in wide-eyed wonder at her new home. She was totally <br>
+    mesmerized by the sheer size and, what she considered opulence of her <br>
+    new home, an opulence in size and comfort that Americans seem to <br>
+    ungratefully assume as normal. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>After an audible gasp, Narisa thought to herself as she took in
+    what she <br>
+    perceived to be a mansion. <i>Wow! I knew people lived like this, but I
+    never <br>
+    would have thought that <b>I</b> would! Just look at this place: the
+    kitchen looks <br>
+    as big as a small apartment!<o:p></o:p></i></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Judging from the look on Narisa's face, Josh thought he knew what
+    she was <br>
+    thinking and chuckled because he never really thought much about where <br>
+    and how his family lived, thinking they were just average folks. They <br>
+    weren't poor, but they weren't rich either. Josh's new house, to him, was <br>
+    just an average four-bedroom home with three-and-a-half baths and had a <br>
+    decent-sized yard. Narisa was enthralled with the place and insisted he
+    give <br>
+    her a tour. He showed her the kitchen and breakfast area, the formal living
+    <br>
+    and dining rooms and the library that his parents used as their office. One
+    <br>
+    bedroom was set up as a guest room; the other that shared a buddy bath <br>
+    with Josh's bedroom was going to be his play space. Although not set up <br>
+    yet, he was going to put a large TV with his video station hooked up, some <br>
+    chairs and a desk with his computer for studying. He showed her his <br>
+    parents' master suite then headed downstairs to grab their bags.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Taking their luggage to their room, Josh told Narisa that this was
+    their <br>
+    &quot;bridal suite&quot;. She giggled and flopped on the bed. She kicked
+    off her shoes <br>
+    and wiggled her sock-covered toes at him. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Lick me, husband. Lick stinky toes.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>He playfully grabbed her feet and pulled her socks off with his
+    teeth and <br>
+    began her tickle torture. She laughed, squirmed and twisted but she loved <br>
+    it. Out of breath, Josh kissed her tiny feet and pulling her to her feet <br>
+    motioning for her to follow. They headed back downstairs with his parents. <br>
+    There wasn't anything to eat, but they sat at the breakfast bar drinking <br>
+    bottled water and discussed what they'd do the coming weekend.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Marie, Josh's mom, said that the first thing they were going to do
+    the next <br>
+    morning after getting some breakfast was to go grocery shopping. After <br>
+    they'd taken care of restocking the pantry and fridge, she said that <br>
+    depending on what time they finished, maybe they'd ride over to Tyson's <br>
+    Corner and do some school shopping at the mall.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Monday morning, the entire family would have to go the teen's high
+    school, <br>
+    register Narisa and see if would be possible to get her and Josh's
+    schedules <br>
+    somewhat synchronized to better help Narisa get acclimated. Both Marie <br>
+    and Steve, Josh's dad, explained to Narisa that in addition to her studies,
+    <br>
+    she'd have to attend ESOL (English for Speakers of Other Languages) <br>
+    classes to learn English a couple of nights each week. Between Josh and his
+    <br>
+    parents, they'd help Narisa with her studies and homework. On Tuesday <br>
+    morning at ten, they had an appointment at the courthouse for a <br>
+    conference with Judge Henry Stiles of the Fairfax County Family Court in <br>
+    his chambers to discuss Narisa and Josh's marriage and whether or not it <br>
+    would be necessary to marry again. As a result, the teens would miss the <br>
+    first two days of classes: class-work and homework they'd probably have to <br>
+    make up. Josh thought to himself, <i>Jeez! Already starting off in the
+    hole!<o:p></o:p></i></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Narisa, although trying to put up a nonchalant front thought to
+    herself, <br>
+    <i>How will I ever do this! How will I ever be able to learn anything when
+    I <br>
+    can't understand what's being taught? My gosh! I won't even be able to <br>
+    read the textbooks!<o:p></o:p></i></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Wednesday, Steve and Marie would return to work and the teens
+    would be <br>
+    on the school bus and off to school to begin what would become their daily <br>
+    routines. Marie also said she was going to call their new family physician <br>
+    and get Josh an appointment to get his cracked ribs checked. Narisa and <br>
+    Josh didn't really have much to say except to go with the flow. It seemed <br>
+    that the adults had the whole thing worked out and the teens were just <br>
+    following orders.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Josh and Narisa said goodnight to Josh's parents and headed
+    upstairs. <br>
+    Narisa fished out her shower cap from her suitcase and they took a quick <br>
+    shower. Then hopping into bed nude, they snuggled up for their first night <br>
+    in their new home. Although tired, both had a little trouble getting to
+    sleep, <br>
+    probably because of the flight, excitement of the press conference and <br>
+    Narisa's new home environment, but after some reassuring cuddles and <br>
+    kisses, Josh's pretty little pixie spooned up against him and they settled
+    off <br>
+    to sleep.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Josh awoke the next morning to the shower running and feeling a
+    little <br>
+    frisky, hopped out of bed to join his unsuspecting wife. Narisa
+    &quot;Eeek'ed&quot; <br>
+    out in surprise when he slid in behind her and she giggled once her initial
+    <br>
+    shock had passed. He fingered her to quick, although knee-weakening <br>
+    orgasm then washed her hair. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Mmm. Narisa like! I love you Josh.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;I love you too, Princess. I also love playing with your
+    little honey pot!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;You bad boy! You just want Narisa suck.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Guilty as charged.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>With an impish grin she attempted to give him a blowjob, but
+    seeing her <br>
+    beautiful lips wrapped around his erection and that blissful feeling Well,
+    <br>
+    let's just say it lasted about twenty seconds before he gave her his gift.
+    Hey, <br>
+    what can you say? He's a fourteen-year-old kid.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>After toweling off and dressing, Narisa said her morning prayers
+    as Josh <br>
+    dressed. He gave her the usual Vidal Sassoon treatment as he dried her <br>
+    hair along with paying homage to her dainty little feet. Josh thought to <br>
+    himself, <i>I wonder if I now have a foot fetish?</i> After their morning
+    frolic, <br>
+    they went downstairs to greet the parental units.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>The family went to IHOP for breakfast and things started to become
+    tense. <br>
+    From Josh's experience, most people are pretty tolerant of other faiths and
+    <br>
+    cultures, but the Muslims he'd had contact with either at school or in other
+    <br>
+    public places were less traditional in their dress than Narisa was. She <br>
+    became a little uncomfortable (from his perspective) with some of the <br>
+    stares she was getting from people seeing her dressed in an abaya and <br>
+    hajib. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>As usual, guys don't always read their wives correctly. Narisa, in
+    fact, <br>
+    became <i>very </i>uncomfortable with the stares she was getting and felt
+    like <br>
+    bursting into tears thinking, <i>For the love of Allah, how will I ever
+    survive <br>
+    here? I feel like a freak!<o:p></o:p></i></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>They managed to get through breakfast with words of reassurance
+    from <br>
+    Josh and his parents, but things were more of the same at the grocery <br>
+    store. No one said anything to her or was impolite, but Narisa did get some
+    <br>
+    looks that said she definitely was in a whole different world. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>At this point, Narisa did break down and started crying and she
+    felt even <br>
+    more embarrassed and humiliated because people were now staring at her <br>
+    as she cried. She felt so out of place, almost as if she were some sort of
+    alien <br>
+    from another planet. It took several minutes and a lot of reassurance from <br>
+    Marie to calm her down so that they could finish shopping.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>On the ride home, Narisa was pretty quiet. She was content to
+    snuggle <br>
+    under Josh's reassuring embrace and be passive. They got home and put <br>
+    the groceries away in subdued silence. Sitting at the breakfast bar, Marie <br>
+    began to talk to Narisa.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Taking her hands gently, she said, &quot;Daughter, I think now is
+    the time to <br>
+    talk about a few things. Before I say anything, tell us exactly what and
+    how <br>
+    you're feeling right now.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Narisa had tears running down her cheeks, but wasn't crying
+    openly. <br>
+    Looking down she said softly, &quot;I will <i>never</i> fit in. People are
+    staring at me <br>
+    like I'm from outer space. What's it going to be like in school? I feel
+    sad, <br>
+    hurt and completely out of place. People don't even know me and they look <br>
+    at me with distrust and fear.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Narisa? Sweetheart?&quot; her mother-in-law coaxed, trying
+    to get her to look <br>
+    up. &quot;Look at me.&quot; (Narisa looked up). &quot;You need to
+    understand human <br>
+    nature a little. No one knows you or the fact that you just arrived from
+    Iran <br>
+    yesterday. People fear and distrust what they don't understand. Although <br>
+    Americans are fairly tolerant of other cultures, they also are puzzled by <br>
+    someone's reluctance to accept some of our culture. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Take me for example. Here in America or any other western
+    country, I can <br>
+    dress as I am now: in a pair of jeans, a blouse and with my head uncovered <br>
+    or I can dress in an abaya and hajib in Tehran. I am who I am no matter <br>
+    how I dress. My faith in God isn't changed nor is the love I have for my <br>
+    husband or son. The person I see as myself isn't altered or changed and <br>
+    neither is how I act simply because I dress a certain way. The Bible tells
+    us <br>
+    to respect and accept the customs of others. Accepting a dress code of a <br>
+    different culture has no bearing whatsoever on who I am or what my beliefs <br>
+    are. It just means that I have a different understanding of other people's <br>
+    customs and culture.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;I'd like you to think about that for a moment. If you were
+    to wear a pair of <br>
+    jeans and a blouse, a dress or even a skirt and maybe a headscarf, would <br>
+    you feel that your faith in Allah is polluted or sinful? <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Narisa just shrugged, <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;You cannot, and I mean cannot, change what people think of
+    you <br>
+    regardless of what you wear to a certain degree. If you dress like a <br>
+    prostitute, people will probably assume you are one, but we're talking of <br>
+    normal, conservative dress. There's no law in America that requires you to <br>
+    hide yourself from the world to prove that you love God. In fact, the <span
+    style="mso-spacerun: yes"></span>government doesnt tell
+    its citizens how to dress. Here, people's faith is<br>
+    <span style="mso-spacerun: yes"></span>a private thing and not questioned
+    by people, nor does the government try<br>
+    <span style="mso-spacerun: yes"></span>to control what people think when
+    they see how someone is dressed. That<br>
+    <span style="mso-spacerun: yes"></span>doesn't mean that there aren't
+    people who dress to outwardly show their faith.<br>
+    <span style="mso-spacerun: yes"></span>There are Muslim women that wear
+    some sort of head covering, and some<br>
+    <span style="mso-spacerun: yes"></span>do wear a hajib along with western
+    dress. Then again, some Muslim women<br>
+    <span style="mso-spacerun: yes"></span>don't wear a head covering at all.
+    Some Catholic nuns still wear a<br>
+    <span style="mso-spacerun: yes"></span>traditional habit. People are
+    generally more accepting when they see that<br>
+    <span style="mso-spacerun: yes"></span>you are somewhat accepting of the
+    culture in which you live.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;That doesn't mean that you have to wear a short skirt that
+    ends right <br>
+    below your bottom and a blouse so tight that every contour of your skin is <br>
+    on display, but if you did, that's your right, although Steve or I would
+    never <br>
+    let you walk out of the house dressed like that. There is absolutely
+    nothing <br>
+    wrong with dressing conservatively, modestly yet stylishly and still
+    profess <br>
+    your faith as a Muslim woman. Can you understand what I'm trying to <br>
+    say?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;I think so,&quot; Narisa answered, &quot;but I would feel so
+    uncomfortable dressing <br>
+    like that. What if a boy were to say something to me about the way I look
+    or <br>
+    lusted after me? What would I do?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;I've got news for you, Princess,&quot; Josh interjected.
+    &quot;Even in Tehran, Hasan <br>
+    and I looked at girls and they looked back. You know how the game is <br>
+    played, right?&quot; She blushed and nodded. &quot;You'll never stop a guy
+    from <br>
+    checking you out because that's human nature: guys like girls and girls
+    like <br>
+    guys, but that has nothing to do with what kind of person you are or how <br>
+    you feel about yourself. There are some guys who can't take no for an <br>
+    answer or can be rude in their gestures or approach, but then they'll be
+    like <br>
+    that regardless of how you dress.&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Steve spoke up, &quot;You also have to look at things this way,
+    Narisa, Some of <br>
+    those same impolite and rude boys will torment and tease you all the more <br>
+    if you're in traditional dress simply because you are different. Again, <br>
+    people fear what they don't understand. All we're trying to say is that you
+    <br>
+    might want to consider what your life will be like here in America and see
+    if <br>
+    dressing less traditionally and being more accepting of your new culture is
+    <br>
+    something you can live with. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;There's not one person in this room that will pressure you
+    into doing <br>
+    something you don't want to do. It's your decision if you wish to continue <br>
+    to wear your traditional attire. We will love you no matter how you dress. <br>
+    As your guardians, Marie and I would never let you dress inappropriately <br>
+    whether you are Muslim or not. You will dress properly, modestly and <br>
+    tastefully as a young girl your age should. Besides, you need to check with
+    <br>
+    your husband: if you think something is okay to wear but your husband <br>
+    thinks it's too sexy or vice-versa, then you should compromise and dress in
+    <br>
+    a way that doesn't cause any friction between the two of you, right?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Narisa nodded and asked her husband, &quot;Would you think I was
+    dressing <br>
+    like a prostitute if I wore jeans or a skirt to school?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Josh looked at her sternly and replied, &quot;First of all, I
+    don't want to hear you <br>
+    refer to yourself like that ever again. Never! You are <i>not</i> a
+    prostitute, have <br>
+    never acted like a prostitute and would <i>never</i> disgrace yourself or
+    me by <br>
+    acting like one. You've got nothing to feel guilty about. You were looking <br>
+    for your brother, not promoting yourself to pick up a man for sex. That's <br>
+    some people's perverted way to keep a woman from being treated fairly like <br>
+    a human being with the same rights as men have. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;You're my wife and I love you with all my heart, regardless
+    of whether you <br>
+    wear jeans, a skirt or an abaya. I trust you and I trust your love for me.
+    I <br>
+    don't think you're going to act any differently based on how you dress, are
+    <br>
+    you?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;No! Of course not!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Well then it's up to you if you'd like to start out with
+    something like pants <br>
+    or jeans and a blouse. Once you're comfortable with that then maybe you <br>
+    can move on to skirts and dresses.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Make no mistake about it,&quot; Marie warned, &quot;when you
+    get to school, you'll <br>
+    probably see some girls dressed pretty sexily, but you have to remember, <br>
+    they're trying to attract boys. Those girls usually attract the wrong kind
+    of <br>
+    boys but they feel a sense of accomplishment anyway. Here in America, <br>
+    thirteen-year-old girls aren't married, but they <i>are</i> trying to
+    attract a boy. <br>
+    They are just starting to learn about boys and dating and that's normal. <br>
+    Some girls are confused, pressured by peers and some are looking for love <br>
+    and affection and they think that by having sex with a boy they'll get the <br>
+    affection they seek. You and Josh are in a totally different situation: you
+    <br>
+    don't have to attract a mate - you've already got one. There's nothing
+    wrong <br>
+    with dressing like a woman, feeling attractive and still being faithful in <br>
+    heart and deed to your husband, do you understand?<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Narisa affirmatively nodded.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Steven and I understand your culture and for that reason, we
+    can better <br>
+    understand and accept your marriage and that your marriage to Josh is a <br>
+    loving and beautiful thing. Others may not understand that kids your age <br>
+    can have an adult relationship built on love. You two are not like two
+    young <br>
+    teenagers fumbling around trying to discover sex like most kids. Both of <br>
+    you fully understand the difference between the loving sexual expression in
+    <br>
+    a marriage and teenage shenanigans hidden from parents. Now, what <br>
+    would you like you do? Would you like to think about this for a while or do
+    <br>
+    you feel that you might want to take a few steps and do what girls all over
+    <br>
+    the world love to do and that is to shop for some new clothes? Want to see
+    how <br>
+    pretty you can be?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Josh, are you sure it's okay for me to dress like an
+    American girl?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>He smiled and nodded saying. &quot;It's perfectly fine with me.
+    Just do whats<span style="mso-spacerun: yes">
+    </span>comfortable for you&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Josh chuckled inwardly remembering that his dad used to joke and
+    say that <br>
+    the way to a woman's heart is through a man's wallet and the Persian <br>
+    Princess was a woman! She got a twinkle in her eyes and a broad smile <br>
+    slowly came over her and she blushed. Her mother-in-law quipped, &quot;Come
+    <br>
+    on, Daughter, let's go shopping!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Josh looked at his dad and Steve just shook his head, reached for
+    his wallet <br>
+    and gave it to his wife and said to his son, &quot;When they get this way,
+    just go <br>
+    with the flow. Keep your mouth shut and hope they don't break the bank. <br>
+    We're in for a long day!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Holding hands, Narisa and her newly adopted mom giggled as they
+    headed <br>
+    for the door with the husbands following meekly behind. Marie suddenly <br>
+    stopped and asked her, &quot;Headscarf or not?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Narisa contemplated and Marie answered for her by saying,
+    &quot;I'll bring a <br>
+    couple and we'll decide later. How's that?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Narisa nodded with a smile and they watched as Marie bolted
+    upstairs and <br>
+    returned a few minutes later with several headscarves: white, bone and <br>
+    black. Stuffing them in her bag she said cheerfully, &quot;Now we're ready,
+    <br>
+    Daughter!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Into the car they piled with Narisa clutching Josh's arm closely
+    in a fit of <br>
+    giggles as Marie told her husband while they pulled away from the drive, <br>
+    &quot;To the mall, Steven. Damn the torpedoes and full speed ahead!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Josh knew his little pixie was pretty but he never realized just
+    how sexy his <br>
+    little princess was until he saw her in a pair of tight jeans and top. She <br>
+    modeled a crop-top with that alluring bare midriff and her tiny innie belly
+    <br>
+    button showing with a hand-covered giggle just to get him riled up, but to <br>
+    his chagrin, she put it back. She ended up getting some jeans and slacks in
+    <br>
+    different colors and tops that she could mix and match. Marie, the woman <br>
+    Narisa would come to love as her own mother, found her four knee-length <br>
+    skirts that looked great on her with some thigh-highs and some tights. She <br>
+    even got three dresses. Josh and his dad gave each other approving looks <br>
+    thinking the same thing: that tiny pixie looked hot!<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Next were shoes (Can't forget about shoes - and stylish boots can
+    they?). <br>
+    After that came a fall jacket and winter coat, neck-scarf and gloves, socks
+    <br>
+    and accessories such as hair combs, barrettes and scrunchies, lip-gloss and
+    <br>
+    on, and on, and on. Then, for the </span><i style='mso-bidi-font-style:
+    normal'><span lang=EN style='font-size:13.0pt;mso-bidi-font-size:10.0pt;
+    font-family:Georgia;mso-ansi-language:EN'>pice de rsistance</span></i><span
+    style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:Georgia'>,
+    the giggling females <br>
+    ducked into Victoria's Secrets well, you get the idea. Evidently, Narisa <br>
+    took her mother's advice, relying on her mother-in-law's taste and by the <br>
+    time they were shopped out, they'd spent six hours, been to umpteen <br>
+    different shops and spent an untold sum of money. Narisa walked out of <br>
+    the mall in a pair of designer jeans, pink top and her long, curly black <br>
+    tresses billowing down her back as she confidently sash-shayed that <br>
+    gorgeous little hiney next to Josh while glued to his arm. <o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>The parental units were walking behind them as Steven quipped,
+    &quot;Um, um, <br>
+    um! Better get her a bodyguard, Josh. She'll be beating them off with a <br>
+    baseball bat!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Hush, Steve!&quot; Marie admonished, &quot;Let her enjoy
+    being a beautiful girl!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Where were girls like that when <b><i>I</i></b> was
+    fourteen?&quot; he jokingly lamented.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Marie, being not much bigger than Narisa, shook her own little
+    jean-clad <br>
+    butt and teased in her little schoolgirl voice, &quot;Hey mithter, can you help
+    me <br>
+    find my Daddy?&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Her husband growled and retorted, &quot;Yes my child, come We'll
+    certainly <br>
+    find your daddy: Sugar Daddy that is!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Oh goody, goody! I could jus kith you mithter!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&quot;Yes Sweetie, we'll do some of that too!&quot;<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>Marie giggled, Steve chuckled and Narisa looked at her husband
+    wondering <br>
+    what they were saying. Josh just cracked a smile at her and shrugged like <br>
+    he didn't have a clue.<o:p></o:p></span></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    <p align=center style='text-align:center'><i><span style='font-size:13.0pt;
+    mso-bidi-font-size:10.0pt;font-family:Georgia'>Edited by Morgan<o:p></o:p></span></i></p>
+    <p><span style='font-size:13.0pt;mso-bidi-font-size:10.0pt;font-family:
+    Georgia'>&nbsp;<o:p></o:p></span></p>
+    </td>
+    <td width=20 style='width:15.0pt;border:none;padding:0in 0in 0in 0in'>
+    <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><span
+    style='color:black'><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal><span style='color:black'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td style='border:solid #4A735A .75pt;border-top:none;mso-border-top-alt:
+  solid #4A735A .75pt;background:#E8EBE4;padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+  <p class=tright>Default Template for <a href="http://www.easyhtools.com"
+  target="_blank">Easy Text To HTML Converter</a></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>

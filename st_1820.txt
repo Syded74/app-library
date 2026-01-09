@@ -1,0 +1,428 @@
+This file is a part of Elf Sternberg's Collected Works on ASSTR.  The
+complete archive of Elf's work can be found on his website at:
+
+http://www.drizzle.com/~elf
+
+The author can be contacted at:
+
+mailto:elf@drizzle.com
+
+  ----------------------------------------------------------------------
+
+                            Travellogue, Day 2
+
+Journal Entry 184 / 00916
+
+Seren, Urim 13, 00916
+
+"Morning!" The word made him jump. He turned to find Jofuran standing
+behind him in a blue denim jumpsuit, the kind with the zipper that ran
+all the way down.
+
+"Hi," he said.
+
+"Hey, don't act so down," she said. "We'll kill these guys."
+
+"Think so?"
+
+"We're the good guys, remember? Pure of heart and intention, ready
+to knock down the bad guys as they come up. Maybe we should go to the
+clothier and get some white hats."
+
+Nickolai smiled; she seemed to have this talent for making people feel
+better. Or did it just work on him?
+
+"Got your card?" he asked.
+
+"Right here," she said, handing him her character card for this session.
+Printed on it were her present combat qualifiers, and from the looks of
+things she was pretty good. He handed her his card.
+
+She whistled. "Lioness S1-A?" she said. "You like the expensive ones,
+don't you?"
+
+"It's only play money."
+
+"But how long did you have to sit in a simulator to get that much
+play money?"
+
+Nickolai nodded and said, "A long time. Your mech's not so cheap either,
+y'know. SDC Ogre?"
+
+She smiled and said, "I've never piloted anything except a KenWood
+Suicide Death Commando since I found the SDC Special, and I'm not likely
+to change now."
+
+"But they're so expensive to repair!"
+
+"That's what makes them fun. I once had an SDC Whizzer."
+
+"You mean the 25 ton Mech with a 20ton Autocannon and the ammunition in
+the head?" She nodded. "Now that's a crazy mech."
+
+"Not really. It's a great arena mech. Think about it. I mean, nothing
+in the 20 to 35 ton weight class can survive more than one or two AC20
+rounds, and the head is so hard to hit I never had to worry about ammo
+explosions. It cleans up in the arena."
+
+Nickolai nodded and climbed into his simulator. It was a long day.
+
+  ----------------------------------------------------------------------
+
+"Furry?" he asked.
+
+She looked up from the gargantuan antipasto she had ordered. "Hmm?"
+
+"Were you making a pass at me last night?"
+
+Jofuran's ears lay back along her head and her nose grew a little darker;
+a blush. "Uh-huh," she acknowledged.
+
+He thought back to the article that claimed Pendorians were
+"indiscriminate." "How come?"
+
+She shrugged. "I like you. Do I need another reason?"
+
+"Well, why?" he asked.
+
+"What do you mean, 'Why'?"
+
+"I don't understand."
+
+She shrugged and said, "Cruises are supposed to be romantic. I used to
+read romance novels a lot when I was on Earth; I really like the ones that
+were set on far-off worlds and things like that. And the historical ones
+are great, too. But I guess when I got on board I was looking for someone
+to spend some time with, and an excuse to get away from my parents. When
+I was in Israel I didn't have much fun; Homo Sapiens still views furries,
+even their own, with a little suspicion." She paused. "I really like the
+digs, y'know? The archeological sites where I get to see things that are
+actually older than Shardik Castle, or D'Tangent Arcology. Traveling over
+to Cairo or seeing the pyramids, thinking about the thousands of people
+it took to build all that stuff by hand. But I didn't have many friends."
+
+"So, why me?" he asked.
+
+"It's almost annoying that you're as famous as you are, Kolya, 'cause
+I like you just the way you are. You handle a mean mech. And you're the
+first human to act like I'm not weird."
+
+Nickolai smiled, but inside he was both thrilled and frightened by what
+she was saying. "Well, maybe that's because I'm weird," he said.
+
+"Having a mother doesn't make you weird, Kolya," she said. "I guess it's
+because you don't know me."
+
+"Why would that change anything?"
+
+"Oh, I don't know. I guess..." she let it trail off. "Look, let's just
+be friends, okay? Let's mechslaughter those bastards tonight and then
+we'll see."
+
+"Okay," he said. He dug into his meal, hoping that she wouldn't notice
+the slight disappointment on his face.
+
+  ----------------------------------------------------------------------
+
+Nickolai slid into the cockpit and closed the door, strapping himself in.
+He pushed the 'NETWORK' button and specified who his teammate was and
+who his opponents were. After a few seconds of waiting, the words "ALL
+AGREED" appeared on his screen. The mission status board came up next,
+and he read it to make sure it was at the agreed setting.
+
+  Environmental Difficulty: 5
+
+  Random Terrain, Random Weather. Full Weather Degrade for Terrain
+  Effects. No Satellite Coverage. Line of Sight Combat Only. No
+  Modifications to Combat Effectiveness.
+
+  Mission Objectives: Destroy All Enemies.
+
+  Mission Objectives of Enemy: Known: Destroy All Enemies.
+
+The worst kind of battle. He smiled; it was also his favorite kind of
+battle. The words "Dropping" came on his screen, and there was a sudden
+perceived lurch; the gravitics in the simulator kicked him around in his
+chair a bit. The screen cleared, and he swore violently. "Snow!" he said
+into his mic, cueing the green button.
+
+"I see it," Jofuran said.
+
+"And that's about all you'll see, slime," the voice of their opponent
+said. "Wait until you die. And that's all the talking you two get to
+do, either."
+
+Nickolai smiled. It was an old trick to tape down the red button on the
+mic, thus jamming the enemy's radio communications. The trouble with this
+technique was that the person doing the jamming couldn't hear his own
+people, either. Both he and Jofuran had been playing this game enough
+to know ways around it.
+
+I:tell:you:he:do:that:he Jofuran signed to him, her mech's fingers
+dancing over the faceplate.
+
+Not:surprise Nickolai agreed. We:talk:when:we:see:we::but:he:deaf:he.
+
+Jofuran's mech nodded. They headed out across the snow carefully,
+taking their time in case a patch of ice presented itself to the mechs'
+ponderous feet.
+
+A bolt of light from his left side caught his attention as Jofuran
+signaled him with a laser. He turned to see her point the left arm of her
+SDC Ogre and release an AC10 shell downrange. Her other hand signalled
+10:10:H.X. The last two letters were a recognizable snap of the mech's
+wrist. He took the cue and programmed in the coordinates she indicated,
+releasing a full salvo of LRM20's to the hex she had indicated. The
+scream that came over the radio was gratifying.
+
+"Hey, you two shouldn't be able to talk to each other! How'd he know
+where to hit?"
+
+Jofuran dropped into a full run, and Nickolai joined her, making for
+a ridge of hills that might well give them a full view of the range on
+the other side. As they ran, the other enemy mech, an older-model Lion,
+appeared in the sky, opening fire as it did so. Missiles snaked toward
+Jofuran, and Nickolai cursed. "Eat this!" he said, firing the LRM20's
+without bothering to recalibrate for flying targets. His missiles snaked
+passed the flying mech without much effect, and he swore again. He
+rethought his attack and began bringing up the Particle Cannon when the
+mech he was targeting on flared and dropped from the sky. He laughed
+aloud.
+
+They made it to the backside of the ridge. What:? Jofuran signaled.
+
+He:... Nickolai cursed. Sign was an inaccurate language compared to
+Anglic. D.E.V.I.A.T.E.D.F.R.O.M.C.O.N.T.R.O.L.L.E.D.F.L.I.G.H.T, he
+signaled. You:O.K.?.
+
+She nodded, running the second and third finger over the front of the
+faceplate. I'm laughing, she was saying. He:stupid:he.
+
+Nickolai agreed, bringing up a fist and rocking it. Yes:. You: ready:you?
+
+Yes:. They assaulted the hill together, climbing it as fast as they could.
+When they reached the summit, Nickolai heard another curse over the radio.
+
+"I don't know how you two are talking to each other, and it doesn't
+matter. You're still dead." Nickolai looked down to see the Lion that had
+fallen out of the sky still crawling to it's feet, and the other mech,
+which he now identified as a Slice'N'Dice 100, heading towards them at
+full run. The Slice opened up with it's lasers. Nickolai brought up his
+AC20 and fired, hitting the target. A leg hit!
+
+Indicators on his tactical showed that the Slice was going mostly after
+Jofuran; he couldn't understand why, he was the better target. Jofuran
+replied by popping the weather covers off her Short Range Missile Rack
+Sixes and sending four fast waves downhill. It took Nickolai less than
+a second to realize that they had just barely holed his left leg, but
+none of the missiles had done any critical internal damage yet.
+
+The cannon was reloading; he racked the LRM20 and sent them downstream
+as well. Sixteen struck home! There was an incoherent scream of range
+as the Slice was staggered.
+
+A rain of LRM20's struck Nickolai's mech in response. The Lion had its
+chest weapons active. He cursed again, but was thankful the Lion hadn't
+fired anything really major.
+
+A blue bolt of light struck him square in the chest, and his cockpit
+lights blinked in response. "Homygod," he said. That was no standard Lion
+to be packing a Particle Cannon. He brought up his own PPC and fired
+back; it was a painful thing to do; the heat was extravagant. But it
+was also dramatic, and it took none of his precious ammunition. Missing,
+he cursed and kicked at the command console.
+
+"Gotcha, pet," he heard over the radio.
+
+The Lion lurched back into the sky, flying toward him at high speed. He
+brought the AC20 to it, calibrated, and issued the fire command. The Lion
+struck his Lioness almost simultaneously with the cannon fire, and the
+gravitics went wild, dizzying him as the display spun about. The Lion
+was so close he couldn't fire the critseekers he would have used after
+a PPC/AC20 combo.
+
+He punched at the enemy mech, and his own mech came back "WRIST ACTUATOR
+DAMAGED, RIGHT HAND."
+
+"Damn!" he swore again. Now he might not be able to use some of the
+signals he and Jofuran had agreed on. He opened up with the chain guns;
+they were cheap, fast on the recycle, and they worked only at point
+blank range. But work they did. And since they filled all seven remaining
+hardpoints, they were almost as effective as an LRM10.
+
+The Lion rolled away, trying to get out of the hail of depleted nuclear
+core that streamed past it. Nickolai rose and kicked at it, and it went
+over the edge of the hill, rolling. There was an indignant grunt.
+
+Nickolai looked up to see Jofuran's mech down on one knee, a hole visibly
+rent in the right leg. Nickolai found her target, the Slice'N'Dice, and
+fired the LRM20 rack, hoping to even the odds. He succeeded. A series
+of small explosions went off in the Slice's legs as a missile found its
+way in to an ammunition hold. The leg was critical; the Slice wouldn't
+stand up much longer. The PPC was recycled; he could risk a heat of
+2200. He fired.
+
+The shot went wide, and Nickolai ducked back out of sight to avoid any
+return fire, circling the far side of the hill to come up on Jofuran
+from that side. His heat display was screaming in blinking red lights,
+and the fusion plant suddenly read "OFF LINE."
+
+"NO!" He screamed as his mech went into a barely controlled fall. He
+argued with the controls, and brought it into a crouch; it wasn't a
+complete fall, and it wouldn't take a complete action to come back
+online, either.
+
+His Lioness-S1a had eighteen heat sinks. Almost as soon as he had the
+mech in a controlled crouch the fusion plant read "FUNCTIONAL." But what
+kind of fire was Jofuran taking in the meantime?
+
+He ran around the hill to find Jofuran still kneeling, plugging away at
+the Lion with the AC20. The Slice was nowhere to be found. The heat of
+the run was minimal; he released another salvo of LRM20's. The Lion's
+arm exploded. The explosion traveled to the shoulder, which promptly
+exploded on its own. The torso followed suit, a blinding white-hot light
+that Nickolai instinctively shielded his eyes from.
+
+"Furry!" he shouted, running towards her mech. She'd been close; close
+enough to take heat effects from the enemy mech's engine popping it's
+bottle.
+
+He waved his hand in front of her faceplate. You:O.K.?
+
+Warm:me:inside:, she signed. But:O.K.
+
+He smiled. Where:S.N.D.:where? he asked.
+
+Know:not:, she replied.
+
+Can:you:walk:you?
+
+Not:want:, she replied.
+
+He nodded. We:wait:we:here.
+
+Yes:. Nickolai could almost hear her say "Uh-huh!"
+
+The end of the battle was anticlimatic. They waited, and finally the
+computer ruled "Enemy Mech One had retreated. Mission 50% successful."
+
+"He ran away," he said into the microphone, now that the jamming effect
+was gone.
+
+"Did you really think he was going to stay and fight? You're almost
+untouched," she said.
+
+"That's because you took all the heat."
+
+"Yeah, the SDC's aren't known for their armor. Come on, let's do
+maintenance."
+
+Nickolai dropped his electronic persona off at the electronic factory and
+crawled out of the simulator. Jofuran was standing next to it, waiting
+for him, a huge smile on her face. "We did it!" she said, hugging him.
+
+"Where'd they go?"
+
+"They weren't here when I got out. I guess they didn't even bother to
+do maintenance. Just took their cards and left."
+
+"They'll be back, y'know."
+
+"Aw, I know. They're part of the tour, and they'll probably show up
+somewhere," she said. "But they've got bloody noses now. They'll just
+be a nuisance from now on."
+
+He smiled and looked down at her. Her big black eyes were wide and happy,
+and he hugged her close. "I hope so."
+
+"Kolya!" he heard a voice in front of him. He looked up; his mother was
+standing in the door of the arcade. He started grinding his teeth again.
+"Kolya, come here, now!"
+
+"Just a second," he said to Jofuran. He turned and walked to where his
+mother stood. She stepped back into the hallway. He followed; she pushed
+the door to the arcade shut.
+
+"Kolya, I came down looking for you because you missed lunch and I
+wanted to make sure you were eating, and I find you in the arms of that,
+that creature."
+
+"She's called a Markal, Mother, and she's a friend."
+
+"Friends don't touch each other like that, Kolya. What have you been
+doing with her?"
+
+"Nothing, Mother."
+
+"Don't tell me that, Kolya. Stay away from her; you never know what she
+could do to you. She could be a telepath, Kolya. She could have SANS."
+
+"Mother, SANS is curable now. Besides, Pendorians don't get SANS."
+
+"Do you know that for certain, Nickolai?"
+
+"Mother..."
+
+"No, Nickolai. You will listen to me. You will stay away from that... I
+can't even call her a girl. That creature."
+
+"Try calling her Jofuran, Mother. And I'm not going to stop seeing her
+just because you tell me so. She's the only person on this entire ship
+I can talk to."
+
+"I just saw four boys your age leaving the arcade."
+
+"Those assholes?"
+
+"Kolya! Watch your language."
+
+"Mom, those kids were threatening to beat Furry up. They're not the kind
+of people I want to call friends."
+
+"Kolya. I'm telling you for your own good. Stay away from her."
+
+"Or what? You'll lock me in my room? Spank me? C'mon, Mom, I'm older
+than that. I think I can make my own decisions on who I talk to."
+
+"Kolya, things are only now coming out about the kind of perversions
+Pendorians do. I don't want you getting caught up in that."
+
+Nickolai sighed and said, "Look, Mother, I'm stuck on this trip for the
+next sixteen days. Don't try to separate me from the one person I've
+found this whole trip to talk to."
+
+"Kolya, listen..."
+
+"No, Mother, you listen to me," he snapped, starting to get angry. He
+decided to play his last card. "I'm old enough to make my own decisions.
+But until I'm eighteen, I have to put up with you. Just remember that when
+you try and advise me." It was a rehearsed speech, and it sounded like it.
+
+"Kolya!"
+
+"Mother, I don't like saying that. But I like Furry, and I'm not going
+to tell her that I can't see her."
+
+"Kolya, I have done my best to raise you as a moral, responsible adult. I
+don't want you getting into trouble."
+
+"And I'm not going to, Mom. I'm just trying to enjoy my vacation."
+
+"Okay, Kolya, have it your way. I'll be here when you come to your
+senses." She turned and swished out of the room, her long cape trailing
+behind her.
+
+"Hopefully, that will be never," he muttered under his breath. He turned
+to enter the arcade, searching for Jofuran through the glass as he opened
+the door. She was nowhere to be found.
+
+  ----------------------------------------------------------------------
+
+
+Original document is available from:
+http://www.drizzle.com/~elf/journals
+
+The Journal Entries of Kennet R'yal Shardik, et. al., and Related Tales
+are Copyright (c) 1989-2000 Elf Mathieu Sternberg. Distribution limited
+to electronic media not-for-profit use only. All other rights are reserved
+to the author.

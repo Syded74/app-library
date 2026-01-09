@@ -1,0 +1,788 @@
+<!DOCTYPE HTML PUBLIC "-//WC3//DTD HTML 4.0//EN">
+
+<HTML>
+
+  <HEAD>
+
+    <META NAME="generator" CONTENT="Web Studio, Version 2.0 for Windows">
+    <META NAME="creation-date" CONTENT="Tue, 29 Jul, 2003 05:00:57 GMT">
+
+    <TITLE>Page 17</TITLE>
+
+    <SCRIPT LANGUAGE="JavaScript">
+      <!--
+        window.onerror = null;
+
+        manufacturer = navigator.appName;
+        versionnum = parseFloat(navigator.appVersion);
+
+        if (manufacturer.indexOf('Netscape') >= 0 && versionnum < 4.0)
+          location.href = 'Page_17.html';
+
+        if (manufacturer.indexOf('Microsoft') >= 0 && versionnum < 4.0)
+          location.href = 'Page_17.html';
+
+      //-->
+    </SCRIPT>
+
+    <STYLE TYPE="text/css">
+      <!--
+        .parastyle0 {text-align:center;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:19px;}
+        .parastyle1 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:19px;}
+        .parastyle2 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:38px;}
+        .parastyle3 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:57px;}
+        .parastyle12 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:133px;}
+        .iltextstyle10 {position:absolute; left:270;}
+        .parastyle4 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:76px;}
+        .parastyle13 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:247px;}
+        .iltextstyle11 {position:absolute; left:318;}
+        .parastyle5 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:95px;}
+        .parastyle14 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:190px;}
+        .parastyle6 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:italic;font-size:16px;text-decoration:none;color:black;height:19px;}
+        .parastyle15 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:13px;text-decoration:none;color:black;height:0px;}
+        .iltextstyle8 {font-style:italic;}
+        .parastyle7 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:114px;}
+        .parastyle16 {text-align:left;margin-left:0px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:13px;text-decoration:none;color:black;height:45px;}
+        .parastyle9 {text-align:left;margin-left:24px;text-indent:0px;font-family:Times New Roman,serif;font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:black;height:152px;}
+      -->
+    </STYLE>
+
+
+  </HEAD>
+
+  <BODY BACKGROUND="Page_17/IMAG0000.GIF" LINK="red" VLINK="lime">
+
+    <DIV ID="SGROBJ7D3711CF17275C1" STYLE="position:absolute; top:94px; left:59px; width:225px; height:25px; z-index:0;">
+      <IMG SRC="Page_17/IMAG0001.JPG" WIDTH=225 HEIGHT=25 BORDER=0>
+    </DIV>
+
+    <DIV ID="TXTOBJ7D3711CF3312AD1" STYLE="position:absolute; top:131px; left:51px; width:550px; height:15225px; z-index:1;">
+      <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=550>
+
+        <TR>
+          <TD VALIGN="TOP" ALIGN="LEFT">
+            <DIV CLASS="parastyle0">
+              The Widows Severe (I)<BR>
+            </DIV>
+            <DIV CLASS="parastyle0">
+              Lon T. Ryden<BR>
+            </DIV>
+            <DIV CLASS="parastyle0">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              I heard voices very clearly.  They were hushed, quiet voices; whispered words, soft<BR>
+              and sibilant in the mouths of people wary of eavesdroppers like myself.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              &#34;Do you think he suspects?&#34;  I heard one voice ask.  Such a nice voice it was.  It<BR>
+              was like leaves carried on an autumn breeze, the soft lappings of a gentle lake.  It was a<BR>
+              soothing voice, a familiar voice: my wife's voice.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle4">
+              &#34;No child.  He trusts you completely.  He has no reason to be suspicious of your<BR>
+              innocence or devotion.  His soul is naked before you, vulnerable and without guard.&#34;<BR>
+              This voice was not so pleasant.  It was like a chorus of snakes hissing in a cave.  Quite<BR>
+              suddenly, I had chills.  My flesh stood, stiff and pebbled.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              They were talking about me.  I knew that.  Knew in that positive no-need-for-<BR>
+              verification way that I knew my own name and phone number.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              I wanted to get closer to the whispering conspirators, but it was completely lightless<BR>
+              where I was.  There was nothing by which to gauge my movements or progress.  Out<BR>
+              of that pitch blackness, there suddenly spoke another voice.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle5">
+              This speaker had a distinctly shattered tone, as though the words were being forged<BR>
+              in a broken larynx and forced up through a throat full of glass splinters.  I had the<BR>
+              impression that speaking was a difficult thing for this person to do -- an activity<BR>
+              associated with pain.  The three words that were finally coughed out came scratching at<BR>
+              my ears like thorns and prickers scratching at my arms.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              &#34;Quiet.  Someone's.  Coming.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              My heart stopped beating.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle4">
+              And then there was dim light before my eyes.  Dim light falling on a landscape of<BR>
+              ghost-white sheets and pillow cases, and where my wife's head should've lay, on the<BR>
+              pillow next to me, there was only a shadow-filled indentation.  An irrational panic<BR>
+              seized me.  I sat bolt upright and fumbled for the lamp on the night stand.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              Click, and there was light, but the bedroom was empty excepting the furniture, and<BR>
+              I felt my fear growing.  I called out, &#34;Cassie?&#34; but my throat was dry and it was really<BR>
+              no more than a hoarse gasp.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              I sprang out of bed then, paying no mind to my nakedness.  In an instant I was at<BR>
+              the door of the bedroom, flinging it wide and entering the hall beyond, where I nearly<BR>
+              trampled my wide-eyed wife.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              Her face was a portrait of concern.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              &#34;Honey, is there something wrong?&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              I wrapped her up in my arms and she returned the embrace.  I held her in silence<BR>
+              for a moment, relishing the feeling of her hair on my cheek and neck, and the warm<BR>
+              tickle of her breath on my shoulder, and the smoothness of her silk pajamas.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              &#34;What is it?  What's wrong?&#34; she asked again.  Was it my imagination, or did she<BR>
+              seem stiff and distanced?<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              &#34;I had a bad dream,&#34; I said.  I felt childish; a little boy running for the protection of<BR>
+              his mother's skirts.  &#34;I woke up and you weren't there...&#34;  I was grabbing at straws,<BR>
+              trying to justify my behavior.  &#34;I got worried.&#34;  My words were small.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              She was tense.  Her hug was still warm and tight, but suddenly she felt like wood.<BR>
+              &#34;Tell me about it,&#34; she said, and there was something masquerading as sympathy there,<BR>
+              behind those words -- something I'd never heard in her voice before.<BR>
+            </DIV>
+            <DIV CLASS="parastyle6">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle6">
+              Do you think he suspects?<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              Goosebumps began to rise from the flesh of my back.  She stroked over them with<BR>
+              her hands.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle7">
+              &#34;You're cold,&#34; she said.  &#34;Let's get back into bed and warm you up.&#34;  And she was<BR>
+              leading me by the hand back into the bedroom.  Now her voice was back to being the<BR>
+              sweet and soothing sound I had come to love.  She climbed into bed.  &#34;Sometimes it<BR>
+              helps to talk about it,&#34; she said, adjusting her pillow.  &#34;Sometimes it helps to get dreams<BR>
+              out in the open and let the light shine on them.  Tell me about it.&#34;  She patted the bed<BR>
+              beside her, beckoning me come.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              There were words right on the edge of my lips, just a flip of the tongue from coming<BR>
+              out...<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <SPAN CLASS="iltextstyle8">Do you think he suspects?<BR>
+              </SPAN>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              ...but something stopped me from saying them.  I swallowed them instead.  I had to<BR>
+              swallow hard.  I could tell they would not sit well in my stomach.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              &#34;I,&#34; I said, and then repeated the syllable once more for good measure, &#34;I... It's<BR>
+              nothing.  It's stupid.  Where were you though?&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              &#34;I was having trouble sleeping.  I went to make myself a cup of tea.  That helps me<BR>
+              sometimes.  The warmness, I think, is what does it.&#34;  She had me fixed in a very serious<BR>
+              look.  &#34;Are you going to be okay?  Would you like me to make you some tea too?&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              I nodded.  &#34;I'll be fine.  No tea, thanks.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle5">
+              She surveyed me for a few seconds more, with her serious eyes, then reached to<BR>
+              the night stand and turned out the light.  In the dark, she rolled up to me and held me<BR>
+              and let my shoulder pillow her head.  It took just a couple of minutes for her to fall<BR>
+              asleep.  I could tell by the regular rhythm of her breathing.  The tea certainly seemed to<BR>
+              have helped her.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              I could not sleep.  My mind was alert and nervous -- filled to bursting with<BR>
+              senseless thinkings.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              I thought about my dreams.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle9">
+              Now I know that all people dream.  All people, as they slumber, drift through<BR>
+              different phases of sleep, and experience rapid eye movement and the like.  And during<BR>
+              that time, I know the subconscious mind plays all manner of imaginings and<BR>
+              hallucinations and memories.  People, places and things, all come, floating and vague,<BR>
+              like vapors off the simmering cauldron of our restless mind.  I know that all people<BR>
+              dream.  Those that claim they do not dream, dream just the same; they just don't<BR>
+              remember.  Their dreams fade in the light of day, become pale in contrast to the<BR>
+              concerns of the real and waking world, and are forgotten.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              I use to forget my dreams.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              But things changed when I married Cassie.  Since being married I have<BR>
+              remembered many dreams, most of them nightmares.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              Laying in the dark, staring at the ceiling, my stomach a knot, I thought of the day I'd<BR>
+              married Cassie.  I thought of her soft, warm body in my arms.  And then with startling<BR>
+              clarity a thought came to me: <SPAN CLASS="iltextstyle8">He suspects now.<BR>
+              </SPAN>
+            </DIV>
+            <DIV CLASS="parastyle0">
+              *<SPAN CLASS="iltextstyle10">*</SPAN><SPAN CLASS="iltextstyle11">*</SPAN><BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              On my wedding day, at the reception, surrounded on all sides by friends and<BR>
+              relatives and loved ones, I met a man that I had never met before, and have never seen<BR>
+              since.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle5">
+              Cassie was dancing with my little brother, Jason, who had just turned twelve, the<BR>
+              baby of my family.  Jason was blushing furiously, embarrassed both by close contact<BR>
+              with a girl and from being the center of everyone's attention.  Everyone had either an<BR>
+              &#34;oh,&#34; or a laugh on their lips.  It was a real Kodak moment.  I remember that moment<BR>
+              as one of the truly golden ones of my life.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle4">
+              And then there was a tap on my arm and I turned around and found myself facing a<BR>
+              grizzled old man in a threadbare gray suit, the sleeves and legs of which fell short on his<BR>
+              thin, weathered limbs.  The moment of my encounter with him will always be with me<BR>
+              also; as one of the most disturbing of my life.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              The old man said, &#34;She's a real beauty, she is.&#34;  He was talking about Cassie.  He<BR>
+              pointed in her direction with a finger bent by swollen knuckles.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              &#34;Yes,&#34; I said, &#34;she is.&#34;  I was full of pride.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              &#34;Looks a lot like her grandmother, that one.  Got her grandma's eyes, that's for<BR>
+              sure.  That blue like cold water.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              &#34;Ah,&#34; I said.  I had been wondering how the man had come to be there.  &#34;You must<BR>
+              be one of my new in-laws then.&#34;  I shook his hand.  &#34; I am glad to meet you.  Cassie<BR>
+              told me most of her family had died.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              &#34;Oh no,&#34; he said, laughing.  &#34;I'm not a Severe.  Oh, for sakes, no.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              &#34;Well, a close friend of the family then. No matter, I am still pleased to meet you.&#34;<BR>
+              I shook his hand again.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle12">
+              &#34;Well now, I wouldn't exactly call myself a friend either.  An acquaintance maybe.<BR>
+              But my ties with the Severes are long broken now.  My brother... he married<BR>
+              Cassandra's grandmother, Marrianna.&#34;  There was something dreadful and menacing<BR>
+              about the way he said that.  &#34;He was only married for three weeks, though.  They were<BR>
+              living in an apartment then, the two of them.  My brother was building their future home.<BR>
+              Doing most of the work himself.  I helped out a little, here and there, but only a little: I<BR>
+              never had talent with my hands.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              I wanted to find a polite way to excuse myself, but I couldn't.  I said, &#34;What<BR>
+              happened?&#34; knowing I would regret asking, but knowing I would feel worse if I turned<BR>
+              this wretched man away without first hearing his story.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              &#34;He fell off the roof.  Landed on a hammer.  Shattered his back.  The doctor said<BR>
+              death was probably instantaneous.  He never knew what hit him.  Hell of a way to go,<BR>
+              eh?&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              &#34;That's terrible,&#34; I said, using words of sympathy without feeling it.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle13">
+              &#34;Yes.  Oh, for sakes, my family, we were so grieved by the tragedy.  Especially<BR>
+              when we later learned that Marrianna was pregnant with his child.  Nothing tears at the<BR>
+              heart like a young widow with a baby, you know?  She was a courageous mother, but<BR>
+              it was still kind of pitiful.  Kind of sad.  A kid needs a father, you know what I'm<BR>
+              saying?&#34;  The old man was scratching at his chin, reflecting on his memories.  His fingers<BR>
+              made a withered, sandy noise against his dry, stubbly skin.  I thought he was probably<BR>
+              done with his story, so I backed a step away, hoping for a quick, clean separation, but<BR>
+              I didn't quite put enough distance between us.  &#34;Mary never would accept any help<BR>
+              from any of my family.  She had a lot of pride.  She was a strong woman, I'll give her<BR>
+              that much.  My mother, and her sister, my aunt that is, offered to help her out on many<BR>
+              occasions, but Mary wouldn't have any of it.  She was an outsider, a loner; everything<BR>
+              she did, she did on her own.  We never really knew much about her after Daryl died.<BR>
+              We kept tabs on her, but that was about all really.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              &#34;I'm sorry,&#34; I said.  I didn't know what else to say.  I was getting to feel very<BR>
+              uncomfortable.  I wanted the song Cassie and Jason were dancing to to end so I would<BR>
+              have a reason to leave and rejoin her.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle5">
+              &#34;Oh, for sakes, no need for apologies,&#34; the old man waved his hands dismissively.<BR>
+              &#34;That's all ancient history now.  No matter, any of that.  Even by herself, Mary did just<BR>
+              fine raising Elizabeth.  I saw them in town every now and again, the two of them<BR>
+              walking, hand in hand, pretty as a picture, they were.  I saw Elizabeth married too, you<BR>
+              know.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              &#34;No, I didn't know that.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              &#34;She made a young widow too.  She and her husband were only married a year<BR>
+              and four months.  He never saw the birth of his daughter either.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              Finally the song was ending.  I said, &#34;Looks like one of our songs is coming up,&#34; by<BR>
+              way of excusing myself and made to leave.  I thought because of the increasing distance<BR>
+              between us that I probably mis-heard the old man's parting words:<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              &#34;And way back, Cassandra's great grandmother, she was a widow too.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              So I cast one more glance back at him.  I said, &#34;I beg your pardon?&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              &#34;The Three Widows Severe, boy.  It's their way.  Don't you be in any hurry to<BR>
+              make number four.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              And like I said, I never saw him again.<BR>
+            </DIV>
+            <DIV CLASS="parastyle0">
+              *<SPAN CLASS="iltextstyle10">*</SPAN><SPAN CLASS="iltextstyle11">*</SPAN><BR>
+            </DIV>
+            <DIV CLASS="parastyle14">
+              The day Cassie and I moved into our house is another one high up on my list of<BR>
+              fond memories.  It seemed to me to be the finishing touch on the project of my success.<BR>
+              Thirty-four years old, I had a career as a future partner in my law firm, I was making a<BR>
+              six digit salary, I had my health, I had the singular most beautiful woman in Western<BR>
+              Civilization for a wife, I had a Mercedes, and now, I had my house.  The only things<BR>
+              missing were children and a good dog.  The children would come (children are a natural<BR>
+              by-product of being married to the most beautiful woman in Western Civilization).  The<BR>
+              dog was another situation all together.  Cassie preferred cats; cats and birds and<BR>
+              rodents.  Rats, mind you, were fine, but dogs were out of the question.  Still, even<BR>
+              minus the dog I dreamed of someday having, I was happy.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle12">
+              I remember unlocking that big white door with the brass knob and door-knocker<BR>
+              and the three diagonal beveled-glass windows, and stepping into the room beyond, and<BR>
+              it was like the beginning of a whole new life.  Here was a perfect space, empty and<BR>
+              waiting.  Waiting for me to fill it with my things, my family, and good memories.  I took<BR>
+              a couple of minutes there at the threshold, mostly excited, slightly overwhelmed, to<BR>
+              explore the magical feeling of the moment.  The sense of personal history in the making<BR>
+              was so powerful, I thought I might cry.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              Cassandra was right behind me.  She had to crane her neck to get a look over my<BR>
+              shoulder.  &#34;What's the matter?&#34; she asked.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              &#34;Nothing,&#34; I said.  &#34;There's nothing wrong at all.  It's perfect.  It's beautiful.&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              &#34;Are we going to go inside sometime?&#34;<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              &#34;Of course,&#34; I said.  I made to step aside but thought better of it.  Instead, I swept<BR>
+              my Cassie up in my arms and carried her into our new home.  She giggled like a little<BR>
+              girl.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle7">
+              We walked through the house together, hand in hand, marveling at what we had.<BR>
+              Cassandra laid plans out, as to what would go where, in perfect detail as we toured<BR>
+              each room, and then upon completing our circuit of all the rooms and returning to the<BR>
+              living room, I laid her out on the floor and made love to her in the light of a golden<BR>
+              sunset that came shining in through the picture windows that lined the west wall.  I had<BR>
+              found my heaven on earth.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle7">
+              But as vividly as I can recall that first day in this house... I can remember that first<BR>
+              night even better.  It was the first time I had a nightmare about the watchers.  At first, I<BR>
+              was in a stormy sea, the color of steel.  The swells were of truly colossal nature, fifty to<BR>
+              sixty feet high.  I rode them helplessly, just barely able to keep my head up.  My<BR>
+              endurance was flagging.  The water was cold.  The great liquid roller coaster was<BR>
+              relentless.  And there was no sign of land anywhere.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              I remember having thought that I was surely doomed to die, but that in itself was<BR>
+              not a scary thing to contemplate; in fact, I found it oddly comforting.  Perhaps the<BR>
+              comfort was in knowing that my suffering would shortly be coming to an end.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              I slipped below the surface, once, then a second time, coughed on briny water, and<BR>
+              then saw, in the distance, a ship.  It was moving towards me.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              At first I thought the craft appeared black because of the distance between me and<BR>
+              it, but as it got closer I saw that it was indeed, entirely black, and the intensity of its<BR>
+              blackness prevented me from making out any details on the hull or deck of it.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              And it got closer and closer.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              And the cold of the water was nothing compared to the cold of the dread that I felt<BR>
+              rising in my heart as that ship came for me.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              Nets were lowered from the ship, and hitting the water they spread their rope<BR>
+              tentacles wide.  I was snared in the mesh like a tuna, and pulled from the water.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle9">
+              ...and set down in my bedroom; my new bedroom in my new house, and Cassie<BR>
+              was there.  She was shocked to see me in the state I was in, soaked and chilled to the<BR>
+              bone, my clothes dripping.  Her lips moved but no sound came out.  She came to me<BR>
+              and began to undress me.  I saw that outside the bedroom window it was night, and<BR>
+              floating in that night were three pairs of eyes.  Icy blue eyes, like Cassie's.  They<BR>
+              watched with great interest as Cassie first stripped me to my underwear and then<BR>
+              wrapped me in blankets.  All the while she seemed to speak, but I heard nothing.  She<BR>
+              caressed my forehead.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle12">
+              I was warming rather quickly; feeling was returning to my fingers and my toes, and<BR>
+              they burned painful hot.  But even as some parts of my body were just beginning to<BR>
+              thaw, others were warm already, as though heated by fire.  I wanted very desperately<BR>
+              to make love to Cassie just then, and I could see in her eyes that she knew this.  She<BR>
+              reached inside the blankets with one hand and I felt that hand slip under the waist-band<BR>
+              of my shorts.  She fondled me.  I stiffened.  A soft, pleasured gasp slipped from my<BR>
+              lips.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              Then, quite suddenly, all the pleasure was pain and I felt warm wetness, alarming in<BR>
+              quantity, oozing between my legs, and I knew it was blood.  My toes curled, and my<BR>
+              knees locked and my thighs were seized by hot, clenching cramps.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle4">
+              Cassie was looking me straight in the face.  In her eyes I saw raw, unsorted<BR>
+              emotions -- confusion.  Her mouth was a tiny, thoughtful frown.  Somehow, through the<BR>
+              pain, I felt her hand leaving me.  When she pulled that hand out of the blankets it was<BR>
+              balled into a fist and dripping red.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              I tried to scream but failed.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              Cassie held one finger from her clean hand up to her lips as though to shush me.<BR>
+              While doing this I saw her slowly open her crimson fist.  And it was filled with babies.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle3">
+              Hundreds of tiny babies, each one probably no bigger than a ball bearing, yet I<BR>
+              could see them all in startling, detailed clarity.  Some laughed, some cried, others did<BR>
+              nothing but stare.  Some of them slept.  Others appeared dead.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              This time I did scream.  I screamed until my throat was stripped and I could<BR>
+              manage nothing more than hoarse wheezing.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              Cassie repeated her shushing gesture.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle2">
+              How ridiculous that she should castrate me and then expect me to be quietly<BR>
+              cooperative as I lay there bleeding to death.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle7">
+              She leaned towards me then, and pressed her lips onto mine.  But it was a kiss full<BR>
+              of malice.  She began to inhale and I realized the air was being sucked from me.  I had<BR>
+              a brief vision of my lungs collapsing like tubes of toothpaste whose contents were being<BR>
+              squeezed out.  Darkness was coming to greet my wide and staring eyes.  The last thing<BR>
+              I saw was the window behind which sat the three watchers.  The last thing I heard was<BR>
+              laughter.<BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              <BR>
+            </DIV>
+            <DIV CLASS="parastyle1">
+              Before waking that is.<BR>
+            </DIV>
+            <DIV CLASS="parastyle15">
+              <BR>
+            </DIV>
+          </TD>
+        </TR>
+
+      </TABLE>
+
+    </DIV>
+
+    <DIV ID="SGROBJ7D3711CC242E1F21" STYLE="position:absolute; top:91px; left:54px; width:100px; height:25px; z-index:2;">
+      <A HREF="Page_1x.html">
+        <IMG SRC="Page_17/IMAG0002.GIF" WIDTH=100 HEIGHT=25 BORDER=0>
+      </A>
+    </DIV>
+
+    <DIV ID="SGROBJ7D3711CC243528E1" STYLE="position:absolute; top:91px; left:161px; width:22px; height:25px; z-index:3;">
+      <A HREF="Page_17x.html">
+        <IMG SRC="Page_17/IMAG0003.GIF" WIDTH=22 HEIGHT=25 BORDER=0>
+      </A>
+    </DIV>
+
+    <DIV ID="SGROBJ7D3711CC243BB91" STYLE="position:absolute; top:91px; left:193px; width:22px; height:25px; z-index:4;">
+      <A HREF="Page_18x.html">
+        <IMG SRC="Page_17/IMAG0004.GIF" WIDTH=22 HEIGHT=25 BORDER=0>
+      </A>
+    </DIV>
+
+    <DIV ID="SGROBJ7D3711CC25328E3" STYLE="position:absolute; top:91px; left:225px; width:22px; height:25px; z-index:5;">
+      <A HREF="Page_19x.html">
+        <IMG SRC="Page_17/IMAG0005.GIF" WIDTH=22 HEIGHT=25 BORDER=0>
+      </A>
+    </DIV>
+
+    <DIV ID="SGROBJ7D3711CC2582CD3" STYLE="position:absolute; top:91px; left:257px; width:22px; height:25px; z-index:6;">
+      <A HREF="Page_20x.html">
+        <IMG SRC="Page_17/IMAG0006.GIF" WIDTH=22 HEIGHT=25 BORDER=0>
+      </A>
+    </DIV>
+
+    <DIV ID="TXTOBJ7D3711CF5D2DC1" STYLE="position:absolute; top:18px; left:52px; width:550px; height:46px; z-index:7;">
+      <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=550>
+
+        <TR>
+          <TD VALIGN="TOP" ALIGN="LEFT">
+            <DIV CLASS="parastyle16">
+              It's probably the program I use to put these pages together, but it refuses to handle big chunks of text.<BR>
+              And &#34;The Widows Severe&#34; is another such chunk of text.  So, much like &#34;Wrath&#34;, I'm going to break it<BR>
+              into parts and provide a little navigation bar at the top of the page.<BR>
+            </DIV>
+          </TD>
+        </TR>
+
+      </TABLE>
+
+    </DIV>
+
+  </BODY>
+
+</HTML>
